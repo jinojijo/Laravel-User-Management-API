@@ -1,0 +1,8 @@
+# Ignore log file contents but keep empty template files
+access.log
+error.log
+
+# Keep the log directory structure and template files
+!.gitkeep
+!access.log.template
+!error.log.template

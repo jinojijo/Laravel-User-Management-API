@@ -1,0 +1,3 @@
+# This is an empty template for nginx access.log
+# The actual access.log file is ignored by git
+# Docker/nginx will create and populate the real access.log file
