@@ -1,4 +1,3 @@
-### This document was created using CHAT GPT
 
 # Laravel User Management API
 
@@ -440,5 +439,5 @@ For support or questions:
 4. Use the health check endpoints for system status
 
 ---
-
+**This document was created using CHAT GPT
 **Built with ❤️ using Laravel 10 & Docker**
